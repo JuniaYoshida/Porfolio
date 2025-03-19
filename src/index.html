@@ -7,12 +7,20 @@
     <link rel="stylesheet" href="scss/main.scss" />
   </head>
   <body>
-    <a href="personalwork.html">Personal work</a>
-    <a href="mediadesign.html">Media Design</a>
-    <a href="about.html">About</a>
-
-    <h1>Homepage</h1>
     <extends src="header.html"></extends>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">colonne 1</div>
+      </div>
+      <div class="row">
+        <div class="col-lg-12">colonne 2</div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4 offset-1">colonne 3</div>
+      </div>
+    </div>
+
     <extends src="footer.html"></extends>
 
     <script src="js/main.js" type="module"></script>
