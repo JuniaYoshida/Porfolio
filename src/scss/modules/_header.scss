@@ -1,0 +1,40 @@
+.header {
+  margin-top: 50px;
+  padding-bottom: 611px;
+}
+
+.header-bar {
+  height: 1px;
+  background: #f6f1ea;
+}
+
+.header a {
+  color: #f6f1ea;
+  font-family: Montserrat;
+  font-size: 14px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  padding: 28px;
+}
+
+.header-sections {
+  width: 296px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.header-about {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 15px;
+}
+
+.header-title a {
+  color: #f6f1ea;
+  font-family: Notable;
+  font-size: 20px;
+  letter-spacing: 2.4px;
+}
