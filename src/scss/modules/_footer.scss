@@ -1,0 +1,32 @@
+.footer {
+  display: flex;
+
+  padding-top: 10px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  gap: 84px;
+}
+
+.footer h3 {
+  color: #f6f1ea;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.footer-menu p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.footer-menu {
+  display: flex;
+  align-items: flex-start;
+  gap: 66px;
+}
+
+.footer-label {
+  color: rgba(246, 241, 234, 0.7);
+  font-size: 12px;
+  font-weight: 200;
+}
