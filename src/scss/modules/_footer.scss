@@ -14,11 +14,6 @@
   font-weight: 600;
 }
 
-.footer-menu p {
-  font-size: 14px;
-  font-weight: 400;
-}
-
 .footer-menu {
   display: flex;
   align-items: flex-start;
@@ -29,4 +24,8 @@
   color: rgba(246, 241, 234, 0.7);
   font-size: 12px;
   font-weight: 200;
+}
+
+.footer-media {
+  padding: 40px;
 }
