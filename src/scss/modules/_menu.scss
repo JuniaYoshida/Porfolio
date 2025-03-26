@@ -1,6 +1,11 @@
 .menu {
   display: flex;
   flex-direction: column;
-  padding-top: 405px;
-  padding-bottom: 405px;
+  background-image: url("/dist/img/Silhouette_breathing.b5a8b278.gif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 850px;
+  margin-top: 400px;
+  margin-bottom: 400px;
 }
