@@ -23,10 +23,26 @@ h2 {
   font-family: "DM Serif Display";
   font-size: 28px;
   font-style: italic;
-  font-weight: 400;
 }
+
 p {
   font-family: Montserrat;
   font-size: 14px;
-  font-weight: 400;
+}
+
+h4 {
+  text-align: center;
+  font-family: "DM Serif Display";
+  font-size: 28px;
+  height: 58px;
+  align-self: stretch;
+}
+
+h5 {
+  color: #f6f1ea;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: 600;
+  opacity: 0.8;
 }
