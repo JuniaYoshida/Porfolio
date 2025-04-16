@@ -16,6 +16,14 @@
 .project-menu p {
   font-size: 16px;
   font-weight: 600;
+  opacity: 90%;
+  transition-property: color;
+  transition-duration: 0.3s;
+  transition-delay: 0.1s;
+}
+
+.project-menu p:hover {
+  color: #e1d8c6;
 }
 
 .project-content {
