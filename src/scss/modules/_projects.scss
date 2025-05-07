@@ -17,6 +17,8 @@
   align-items: flex-start;
   gap: 42px;
   padding-bottom: 300px;
+  display: flex;
+  justify-content: center;
 }
 
 .project-menu p {
@@ -29,7 +31,8 @@
 }
 
 .project-menu p:hover {
-  color: #e1d8c6;
+  color: #d3a074;
+  font-size: 16.3px;
 }
 
 .project-content {
